@@ -5,7 +5,7 @@
   <groupId>in.kmit</groupId>
   <artifactId>EduAssessPro</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>EduAssessPro Maven Webapp</name>
   <url>http://www.example.com</url>
@@ -42,7 +42,7 @@
   </dependencies>
 
   <build>
-    <finalName>build_output_web</finalName>
+    <finalName>build_output</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
@@ -83,7 +83,7 @@
           <configuration>
             <warSourceDirectory>WebContent</warSourceDirectory>
             <outputDirectory>build_output</outputDirectory>
-            <port>9091</port>
+            <port>9090</port>
             <uriEncoding>UTF-8</uriEncoding>
           </configuration>
         </plugin>
