@@ -7,3 +7,15 @@
 0:0:0:0:0:0:0:1 - - [22/Sep/2025:12:17:35 +0530] "GET /EduAssessPro/ HTTP/1.1" 200 1776 http-bio-9091-exec-9 201
 0:0:0:0:0:0:0:1 - - [22/Sep/2025:12:18:13 +0530] "GET /EduAssessPro/ HTTP/1.1" 200 1776 http-bio-9091-exec-2 2
 0:0:0:0:0:0:0:1 - - [22/Sep/2025:12:18:53 +0530] "GET /EduAssessPro/ HTTP/1.1" 200 1776 http-bio-9091-exec-2 6
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:12:37:56 +0530] "GET /EduAssessPro/ HTTP/1.1" 200 1776 http-bio-9091-exec-6 6
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:08:28 +0530] "GET /EduAssessPro/ HTTP/1.1" 200 1776 http-bio-9091-exec-9 255
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:20:24 +0530] "GET /EduAssessPro HTTP/1.1" 302 - http-bio-9090-exec-2 0
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:20:24 +0530] "GET /EduAssessPro/ HTTP/1.1" 404 977 http-bio-9090-exec-3 13
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:20:24 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:20:30 +0530] "GET /EduAssessPro/ HTTP/1.1" 200 1776 http-bio-9091-exec-4 438
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:26:46 +0530] "GET /EduAssessPro/ HTTP/1.1" 404 977 http-bio-9090-exec-6 7
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:36:54 +0530] "GET /EduAssessPro/ HTTP/1.1" 404 977 http-bio-9090-exec-9 5
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:36:56 +0530] "GET /EduAssessPro/ HTTP/1.1" 404 977 http-bio-9090-exec-9 1
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:13:41:53 +0530] "GET /EduAssessPro/ HTTP/1.1" 404 977 http-bio-9090-exec-4 3
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:14:52:51 +0530] "GET /EduAssessPro/ HTTP/1.1" 404 977 http-bio-9090-exec-8 23
+0:0:0:0:0:0:0:1 - - [22/Sep/2025:14:52:59 +0530] "GET /EduAssessPro/ HTTP/1.1" 200 1776 http-bio-9091-exec-1 647
