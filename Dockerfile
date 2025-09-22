@@ -1,4 +1,5 @@
 FROM tomcat:9.0
-WORKDIR /webapps
-COPY target/*.jar web.jar
-CMD ["catalina.sh","web.war"]
+WORKDIR /usr/local/tomcat/webapps
+COPY target/*.war .
+
+EXPOSE 8080
